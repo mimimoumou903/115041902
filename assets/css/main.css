@@ -224,9 +224,9 @@ input, select, textarea {
     margin-right: auto;
 }
 .p3 {
-    width: 87%;
     margin-right: auto;
     margin-left: auto;
+	text-align: center;
 }
 
 
